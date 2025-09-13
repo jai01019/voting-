@@ -1,4 +1,4 @@
-🗳️ Digital Voing Platform (MERN Stack)
+🗳️ Digital Voting Platform (MERN Stack)
 
 
 📌 Overview
