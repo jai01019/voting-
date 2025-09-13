@@ -66,3 +66,19 @@ cd backend && npm run dev
 cd frontend && npm run dev
 
 📸 Screenshots
+
+login:
+<img width="302" height="873" alt="image" src="https://github.com/user-attachments/assets/98e5cfd8-2969-4cc2-b051-f2f120d87d6e" />
+
+
+signup:
+<img width="164" height="659" alt="image" src="https://github.com/user-attachments/assets/0db3ff13-315c-45b3-becb-879467ec76bd" />
+
+
+user dashboard:
+<img width="642" height="865" alt="image" src="https://github.com/user-attachments/assets/63743162-cc47-4468-a2ea-a1554dca74a2" />
+
+
+Admin Dashboard:
+<img width="746" height="835" alt="image" src="https://github.com/user-attachments/assets/8a75d47d-c7db-43b8-8080-932655abaaeb" />
+
