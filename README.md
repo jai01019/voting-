@@ -48,16 +48,16 @@ Auth: JWT Authentication
 🚀 Getting Started
 
 # Clone repo
-git clone https://github.com/yourusername/digital-election-platform.git
-cd digital-election-platform
+gh repo clone jai01019/voting-
+cd Voting
 
 # Install dependencies
 npm install
 
 # Start backend
-cd server && npm start
+cd backend && npm run dev
 
 # Start frontend
-cd client && npm start
+cd frontend && npm run dev
 
 📸 Screenshots
