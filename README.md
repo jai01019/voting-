@@ -1,4 +1,6 @@
 🗳️ Digital Voing Platform (MERN Stack)
+
+
 📌 Overview
 
 A full-stack digital election system built with the MERN stack, featuring secure JWT authentication, role-based access (User/Admin), and real-time voting management. Designed to ensure fraud prevention, election integrity, and scalable performance.
